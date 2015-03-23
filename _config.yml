@@ -1,0 +1,12 @@
+# Site settings
+title: iDev
+email: jinjian.pku@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Learning and exciting projects are happening here. Alive.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "http://yourdomain.com" # the base hostname & protocol for your site
+twitter_username: jianPKU
+github_username:  jianjinucdavis
+
+# Build settings
+markdown: kramdown
