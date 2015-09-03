@@ -1,8 +1,8 @@
 # Site settings
-title: iDev
+title: Jian Jin
 email: jinjian.pku@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Learning and exciting projects are happening here. Alive.
+  Life is an exciting journey.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jianPKU
