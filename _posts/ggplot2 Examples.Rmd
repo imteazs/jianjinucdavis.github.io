@@ -1,0 +1,18 @@
+---
+title: "ggplot2 Examples"
+author: "Jian Jin"
+date: "April 22, 2015"
+output: html_document
+---
+
+# Comparing group average
+
+```{r, echo = TRUE}
+library(ggplot2)
+?msleep
+
+str(msleep)
+```
+
+* Do animals from different vores have different length of sleep time?
+
