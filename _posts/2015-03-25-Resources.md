@@ -2,6 +2,7 @@
 layout: post
 title: Reources
 date: 2015-03-22
+tags: [general, resources]
 ---
 
 ### Blog Resources
