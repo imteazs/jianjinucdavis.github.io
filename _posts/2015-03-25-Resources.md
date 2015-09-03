@@ -1,8 +1,13 @@
 ---
 layout: post
-title: Reources
+title: Resources
 date: 2015-03-22
-tags: [general, resources]
+tags: 
+- general
+- resources
+categories:
+- learning
+published: true
 ---
 
 ### Blog Resources
