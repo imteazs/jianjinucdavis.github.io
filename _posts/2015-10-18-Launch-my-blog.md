@@ -6,7 +6,9 @@ modified: 2015-10-18
 tags: [jekyll, github]
 ---
 
-Finally, my blog is launched, unofficially. I never thought I would built a website, on my own, one day. This is very exciting to me!
+Welcome, friends!
+
+I never thought there will be a day when I could built a website, on my own. But, today is that day! Exciting!
 
 Resources on how to build a personal blog like this are widely available online. Both [Jekyll](http://jekyllrb.com/docs/usage/) and [github](https://pages.github.com) have very clear instructions. 
 
