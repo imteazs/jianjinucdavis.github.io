@@ -1,25 +1,13 @@
 ---
 layout: post
-title: to do
-date: 2015-03-28
-categories: learning, stats
-tags: [to-do]
+title: Changing Jekyll template
+date: 2015-10-18
+categories: Jekyll
 ---
 
-## my workflow
-- start a post with title capturing the problem
-- describe the problem
-- update the post for each step moving forward
+# resources:
+Set up for existing Jekyll site.
 
-### to do
-- check if my website works
-- configure mySQL - record how problems were solved
-- python beautiful soup scrape pubmed/sciencedirect
-- store scraped data using pandas
+https://mmistakes.github.io/hpstr-jekyll-theme/theme-setup/
 
-#### personality change project
-- data cleaning for all cages
-	- build functions for data cleaning
-
-
-
+https://mademistakes.com/work/jekyll-themes/
