@@ -1,12 +1,36 @@
-# Site settings
-title: Jian Jin
-email: jinjian.pku@gmail.com
-description: > # this means to ignore newlines until "baseurl:"
-  Life is an exciting journey.
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jianjinxyz
-github_username:  jianjinucdavis
+title:            Jian Jin
+description:      Life is an exciting journey.
+disqus_shortname: shortname
+# Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
+# When testing locally leave blank or use http://localhost:4000
+url:              //jianjinucdavis.github.io
+
+# Owner/author information
+owner:
+  name:           Jian Jin
+  avatar:         # avatar.jpg
+  bio:            "A scientist in transition to a DATA scientist!"
+  email:          jinjian.pku@gmail.com
+  # Social networking links used in footer. Update and remove as you like.
+  twitter:        jianjinxyz
+  github:         jianjinucdavis
+  linkedin:       https://www.linkedin.com/in/jianjinxyz
+
+# Analytics and webmaster tools stuff goes here
+google_analytics:   
+google_verify:      
+# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+bing_verify:         
+
+# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone:    America/Los_Angeles
+future:      true
+pygments:    true
+markdown:    kramdown
+
+# Amount of posts to show on home page
+paginate: 5
+
 
 # add Facebook, Twitter, and Google+ share links 
 share: true
@@ -18,6 +42,3 @@ site:
 
 # allow comments
 comments: true
-
-# Build settings
-markdown: kramdown
