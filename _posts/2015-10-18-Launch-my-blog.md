@@ -3,6 +3,8 @@ layout: post
 title: Hello World
 description: "On the birth of this blog, resources, and troubleshooting."
 modified: 2015-10-18
+comments: true
+share: true
 tags: [jekyll, github]
 ---
 
