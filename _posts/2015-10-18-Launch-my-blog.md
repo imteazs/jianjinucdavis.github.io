@@ -4,10 +4,6 @@ title: Hello World
 description: "On the birth of this blog, resources, and troubleshooting."
 modified: 2015-10-18
 tags: [jekyll, github]
-image:
-  feature: abstract-3.jpg
-  credit: dargadgetz
-  creditlink: http://www.dargadgetz.com/ios-7-abstract-wallpaper-pack-for-iphone-5-and-ipod-touch-retina/
 ---
 
 Finally, my blog is launched, unofficially. I never thought I would built a website, on my own, one day. This is very exciting to me!
