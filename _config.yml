@@ -18,7 +18,13 @@ owner:
   github:         jianjinucdavis
   linkedin:       jianjinxyz
 
+
 # Background image to be tiled on all pages
+image:
+  feature: lover'sPoint.JPG
+  credit: Jian Jin #name of the person or site you want to credit
+  creditlink:  #url to their site or licensing
+
 background: lover'sPoint.JPG
 
 # Analytics and webmaster tools stuff goes here
