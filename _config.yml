@@ -46,14 +46,10 @@ permalink:   /:categories/:title/
 # Amount of posts to show on home page
 paginate: 5
 
-
-# add Facebook, Twitter, and Google+ share links 
-share: true
-
 # set up comments
-site:
-  owner:
-    disqus-shortname: shortname
+site: jianjin.xyz
+  owner: JIAN_JIN
+    disqus-shortname: jianjinxyz
 
 # allow comments
 comments: true
