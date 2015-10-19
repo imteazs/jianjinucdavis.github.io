@@ -10,7 +10,7 @@ tags: [jekyll, github]
 
 Welcome, friends!
 
-I couldn't ever imagine that I could built a website. But, here, I did it. I felt a great sense of achievement and a fulfillment.  
+I couldn't ever imagine me building a website. But I did it. I felt a great sense of achievement and fulfillment.  
 
 Resources on how to build a personal blog like this are widely available online. Both [Jekyll](http://jekyllrb.com/docs/usage/) and [github](https://pages.github.com) have very clear instructions. 
 
