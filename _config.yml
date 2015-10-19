@@ -46,14 +46,6 @@ permalink:   /:categories/:title/
 # Amount of posts to show on home page
 paginate: 5
 
-# set up comments
-site: jianjin.xyz
-  owner: JIAN_JIN
-    disqus-shortname: jianjinxyz
-
-# allow comments
-comments: true
-
 kramdown:
   auto_ids: true
   footnote_nr: 1
