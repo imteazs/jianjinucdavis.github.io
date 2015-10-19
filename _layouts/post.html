@@ -49,8 +49,7 @@
         {% if page.share != false %}{% include social-share.html %}{% endif %}
       </footer>
     </div><!-- /.entry-content -->
-    {% if page.comments != false %}<section id="disqus_thread"></section><!-- /#disqus_thread -->{% endif %}
-    {% if site.related_posts.size > 0 %}{% include read-more.html %}{% endif %}
+    {% if page.comments != false %}<section id="disqus_thread"><script type="text/javascript">window.disqus_config = function () { this.discovery.disable_promoted = 'true'; }</script></section><!-- /#disqus_thread -->{% endif %}
   </article>
 </div><!-- /#main -->
 
