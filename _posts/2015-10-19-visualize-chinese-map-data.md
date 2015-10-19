@@ -43,9 +43,6 @@ head(Muslim_population)
 ## 6                     1                1
 ```
 
-```r
-write.csv(Muslim_population, "Muslim_population.csv", row.names = FALSE)
-```
 
 #### import libraries
 
