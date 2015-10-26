@@ -1,0 +1,44 @@
+---
+title: "test posting using servr and knit"
+author: "JJ"
+date: "October 21, 2015"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+I used R in Rstudio, by default, for most of real-life analysis. Figuring out how to output markdown file to the `/_post` directory in my blog folder from any RMarkdown file in any working directories is essential to boost productivity. This goal can be breaked down into two parts.
+  * Automately generating jekyll-flavor `.md` file from `.Rmd` file.
+  * Setting output to `/_post` directory in my blog folder from any R working directory.
+  
+Yihui Xie wrote clear [instructions](http://yihui.name/knitr-jekyll/2014/09/jekyll-with-knitr.html) on how to fulfill the first goal.
+
+My work is to figure out how to set directories at my will.
+
+### randomly generating some R code
+
+```{r}
+x <- sum(1:100)
+x
+```
+
+Well, my first attempt at combining two steps failed. 
+I ran the code:
+`servr::jekyll(dir = "/Users/USERNAME/Documents/myblog/", input = ".", output = "_posts", script = "2015-10-21-testing-posting-using-servr-and-knitr.Rmd")`.
+
+An error occured indicating jekyll not found. I tried the [recommendations](http://stackoverflow.com/questions/31091443/r-servrjekyll-build-error) on specifying path for `jekyll` using `command` argument in `servr::jekyll`. It still gave me error message that `jekyll build` command not found.
+
+Now I save my `.rmd` file manually to `_source` directory in my blog dir. I set my R working directory into my blog root directory. Let's see what happends.
+
+I ran `servr::jekyll()`.
+
+It still told me `sh: jekyll: command not found \n Error in jekyll_build() : Failed to run: jekyll build`
+
+OK. I navigated to my blog root dir in terminal and ran `jekyll build`. It returned: `in "require": cannot load such file -- jekyll-sitemap (LoadError)`. According to this [post on github](https://github.com/twbs/bootstrap/issues/17254), running `bundle install` seems fixed the issue. Oops, not for me. Running `bundle install` returns `Could not locate Gemfile`. [A post on stackoverflow](http://stackoverflow.com/questions/3329953/could-not-locate-gemfile) indicated that `bundle install` should be ran where `Gemfile` is located. 
+
+OK. I don't think `bundle` was installed correctly in my system... This is sort of out of my comfort zone. This is not of a high enough priority and I'll try again later... 
+
+
+
