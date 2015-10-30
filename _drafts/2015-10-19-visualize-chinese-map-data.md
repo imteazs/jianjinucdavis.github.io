@@ -22,11 +22,11 @@ The Data [source](http://www.360doc.com/content/14/0316/11/11971456_360980940.sh
 
 Briefly, here's how the data look like.
 
-```r
+~~~r
 head(Muslim_population)
-```
+~~~
 
-```
+~~~
 ##       Province Province_en Density_Muslim Distribution_Muslim
 ## 1       北京市     Beijing           1.76         0.011605416
 ## 2       天津市     Tianjin           0.20         0.008413926
@@ -41,16 +41,16 @@ head(Muslim_population)
 ## 4                     1                0
 ## 5                     1                1
 ## 6                     1                1
-```
+~~~
 
 
 #### import libraries
 
-```r
+~~~r
 library(maps)
 library(mapdata)
 library("maptools")
-```
+~~~
 
 
 #### get .shp file
