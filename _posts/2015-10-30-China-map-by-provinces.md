@@ -113,7 +113,7 @@ leg.txt <- c("<0.2%", "0.2-1%", "1.0%-5%", ">5%")
 legend("bottom", leg.txt, horiz = TRUE, fill = densityColorCode$Density_color)
 {% endhighlight %}
 
-![plot of chunk unnamed-chunk-6](images/unnamed-chunk-6-1.png) 
+![plot of chunk unnamed-chunk-6](/images/unnamed-chunk-6-1.png) 
 
 
 #### plot distribution of Muslim population across China
@@ -132,7 +132,7 @@ legend("bottom", leg.txt, horiz = TRUE,
        fill = distributionColorCode$Distribution_color)
 {% endhighlight %}
 
-![plot of chunk unnamed-chunk-7](images/unnamed-chunk-7-1.png) 
+![plot of chunk unnamed-chunk-7](/images/unnamed-chunk-7-1.png) 
 
 
 Now we have our maps! Have fun playing with map data! 
