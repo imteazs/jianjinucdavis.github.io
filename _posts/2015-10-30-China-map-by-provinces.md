@@ -39,7 +39,7 @@ Here's how the clean data looked like.
 library(maps)
 library(mapdata)
 library("maptools")
-{% highlight r %}
+{% endhighlight %}
 
 
 GPS data, contained in ".shp" file, provides information on map polygons. ".shp" file can be read using R package `maptools`. Download [GPS data on China provinces](http://cos.name/wp-content/uploads/2009/07/chinaprovinceborderdata_tar_gz.zip) and unzip it into your working directory. Thank [Yihui](http://yihui.name/cn/2007/09/china-map-at-province-level/) for researching data sources. 
@@ -130,7 +130,7 @@ title("Muslim Distribution in China, 2010")
 leg.txt <- c("<1%", "1-5%", "5%-10%", ">10%")
 legend("bottom", leg.txt, horiz = TRUE, 
        fill = distributionColorCode$Distribution_color)
-{% highlight r %}
+{% endhighlight %}
 
 ![plot of chunk unnamed-chunk-7](images/unnamed-chunk-7-1.png) 
 
