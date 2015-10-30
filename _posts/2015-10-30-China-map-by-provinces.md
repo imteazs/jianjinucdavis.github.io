@@ -1,8 +1,10 @@
 ---
 layout: post
-title: “Plotting China Map by Provinces”
-author: "Jian Jin"
+title: Plotting China Map by Provinces
 modified: 2015-10-30
+comments: true
+share: true
+tags: [visualization, map]
 ---
 
 
