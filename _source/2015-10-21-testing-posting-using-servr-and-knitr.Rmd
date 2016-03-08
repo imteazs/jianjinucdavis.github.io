@@ -40,5 +40,4 @@ OK. I navigated to my blog root dir in terminal and ran `jekyll build`. It retur
 
 OK. I don't think `bundle` was installed correctly in my system... This is sort of out of my comfort zone. This is not of a high enough priority and I'll try again later... 
 
-
-
+I ran gem install jekyll-sitemap... It seemed to work.. Let me try try... 
