@@ -18,9 +18,10 @@ The first step is launching an Amazon instance from an ubuntu AMI (ami-05384865)
 
 Logging in your remote machine using your keypair. If this is the first time you use your keypair, you'll need to set permissions.
 
-```
+~~~shell
 chmod og-rwx ~/Downloads/amazon-key.pem
-```
+~~~
+
 Connect to your remote machine from ssh:
 
 ```
