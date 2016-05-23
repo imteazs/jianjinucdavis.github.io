@@ -11,7 +11,9 @@ tags: [visualization, map]
 
 A friend asked me to plot Muslim distribution in China for his presentation on "History and Culture of Chinese Muslims". Well, what a great opportunity to learn map visualization! 
 
-It begins with Data [source](http://www.360doc.com/content/14/0316/11/11971456_360980940.shtml). Oh messy messy data...
+[Yihui's](http://yihui.name/cn/2007/09/china-map-at-province-level/) and [Yixuan's](http://cos.name/2009/07/drawing-china-map-using-r/) blog post on this topic had very helpful information.
+
+It begins with Data [source](http://www.360doc.com/content/14/0316/11/11971456_360980940.shtml). Oh messy messy data... 
 
 
 Here's how the clean data looked like.
