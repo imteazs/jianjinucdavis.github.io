@@ -2,7 +2,7 @@
 layout: post
 title: Happy fool's day!
 description: "Some random thoughts"
-modified: 2015-10-18
+modified: 2019-04-01
 comments: true
 share: true
 tags: [jekyll, github]
