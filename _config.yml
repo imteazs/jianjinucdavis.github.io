@@ -1,3 +1,4 @@
+
 title:            Jian Jin
 description:      Life is an exciting journey.
 disqus_shortname: jianjinxyz
@@ -5,13 +6,12 @@ reading_time: true
 words_per_minute: 200
 # Your site's domain goes here (eg: //mmistakes.github.io, http://mademistakes.com, etc)
 # When testing locally leave blank or use http://localhost:4000
-url:              //jianjin.xyz
 
 # Owner/author information
 owner:
   name:           Jian Jin
   avatar:         # avatar.jpg
-  bio:            "A scientist in transition to a DATA scientist!"
+  bio:            "someone"
   email:          jianjin.xyz@gmail.com
   # Social networking links used in footer. Update and remove as you like.
   twitter:        jianjinxyz
