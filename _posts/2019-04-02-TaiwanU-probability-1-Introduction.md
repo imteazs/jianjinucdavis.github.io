@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Learning Note: Introduction to Probability from Taiwan University
-description: "Why women should get enough sleep"
+description: "What is the core of probability"
 modified: 2019-04-02
 comments: true
 share: true
@@ -38,6 +38,6 @@ P(A) = p, A - event
 
 __Probability is a function of events. It is a mapping from an event in an event space to a number [0, 1]. It inputs an event, and output a number between [0, 1]. Sets are important because events are sets, and probability function has the input of events.__
 
-
+The core of probability is that probability is a function that returns a number for the chance of its input event happening. 
 
 
