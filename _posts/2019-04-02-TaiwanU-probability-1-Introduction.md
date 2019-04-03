@@ -41,3 +41,113 @@ __Probability is a function of events. It is a mapping from an event in an event
 The core of probability is that probability is a function that returns a number for the chance of its input event happening. 
 
 
+##### sets in python
+
+Sets in python 
+* are unordered;
+* contains only unique items;
+* maybe modified if elements contained are immutable.
+
+
+Operations and methods
+
+
+```python
+empty_set = set([])
+my_favorite_icecreams = set(['vanilla', 'coffee', 'chocolate', 'purple yam', 'pineapple', 'rockyroad'])
+sids_favorite_icecreams = set(['chocolate', 'peanut butter', 'salted caramel', 'vanilla'])
+```
+
+
+```python
+# union
+all_icecreams = my_favorite_icecreams.union(sids_favorite_icecreams)
+all_icecreams2 = my_favorite_icecreams | sids_favorite_icecreams
+print all_icecreams
+print all_icecreams2
+```
+
+    set(['coffee', 'rockyroad', 'salted caramel', 'pineapple', 'vanilla', 'purple yam', 'peanut butter', 'chocolate'])
+    set(['coffee', 'rockyroad', 'salted caramel', 'pineapple', 'vanilla', 'purple yam', 'peanut butter', 'chocolate'])
+
+
+
+```python
+# set membership
+print 'chocolate' in my_favorite_icecreams
+print 'strawberry' in sids_favorite_icecreams
+```
+
+    True
+    False
+
+
+
+```python
+# subset
+print my_favorite_icecreams.issubset(all_icecreams)
+```
+
+
+
+
+    True
+
+
+
+
+```python
+# superset
+print cissuperset(my_favorite_icecreams)
+print my_favorite_icecreams.issuperset(all_icecreams)
+```
+
+    True
+    False
+
+
+
+```python
+# intersection: both a fav of sid and me
+print my_favorite_icecreams.intersection(sids_favorite_icecreams)
+print my_favorite_icecreams & sids_favorite_icecreams
+```
+
+    set(['vanilla', 'chocolate'])
+    set(['vanilla', 'chocolate'])
+
+
+
+```python
+# difference: sid's fav but not my fav
+print sids_favorite_icecreams.difference(my_favorite_icecreams)
+print sids_favorite_icecreams - my_favorite_icecreams
+```
+
+    set(['peanut butter', 'salted caramel'])
+    set(['peanut butter', 'salted caramel'])
+
+
+
+```python
+# XOR: either sid's fav or my fav
+print sids_favorite_icecreams.symmetric_difference(my_favorite_icecreams)
+```
+
+    set(['coffee', 'rockyroad', 'salted caramel', 'pineapple', 'purple yam', 'peanut butter'])
+
+
+
+```python
+# disjoint
+print empty_set.isdisjoint(all_icecreams)
+```
+
+
+
+
+    True
+
+
+
+
