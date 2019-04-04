@@ -52,11 +52,11 @@ Sets in python
 Operations and methods
 
 
-```python
+~~~
 empty_set = set([])
 my_favorite_icecreams = set(['vanilla', 'coffee', 'chocolate', 'purple yam', 'pineapple', 'rockyroad'])
 sids_favorite_icecreams = set(['chocolate', 'peanut butter', 'salted caramel', 'vanilla'])
-```
+~~~
 
 
 ```python
