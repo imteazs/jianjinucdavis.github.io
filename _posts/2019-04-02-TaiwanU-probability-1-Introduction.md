@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Learning Note - Introduction to Probability from Taiwan University
+title: Introduction to Probability from Taiwan University
 description: "What is the core of probability"
 modified: 2019-04-02
 comments: true
