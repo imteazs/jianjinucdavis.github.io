@@ -23,3 +23,9 @@ __Reference__
 * Lallukka, T., Rahkonen, O., Lahelma, E., & Arber, S. (2010). Sleep complaints in middle‐aged women and men: the contribution of working conditions and work–family conflicts. Journal of Sleep Research, 19(3), 466-477.
 * Miller et al., “Gender Differences in the Cross-Sectional Relationships Between Sleep Duration and Markers of Inflammation: Whitehall II Study.” Sleep, 2009, doi:10.1093/sleep/32.7.857.
 
+
+##### todo:
+* adding a structure
+1. Sleep is important to health
+2. What keeps women awake? Work stress, life stress (income), work-life banalnce, baby, health
+3. How to resolve issues and get enough sleep? self compassionate 
