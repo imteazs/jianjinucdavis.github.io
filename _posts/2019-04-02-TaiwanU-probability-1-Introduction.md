@@ -5,7 +5,7 @@ description: "What is the core of probability"
 modified: 2019-04-02
 comments: true
 share: true
-tags: [probability, learning_note]
+tags: [probability, learningnote]
 ---
 
 Course Link: https://www.coursera.org/learn/prob1?
