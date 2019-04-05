@@ -8,13 +8,13 @@ share: true
 tags: [sleep, gender differences]
 ---
 
-Ever since the invention of a light bulb, getting enough sleep has become a struggle. The situation gets worse after Netflix and Facebook and twitter being invented. It is so easy to be staying up and staring at your screen.
+Ever since the invention of a light bulb, getting enough sleep has become a struggle. The situation became worse after companies such as Netflix, Facebook and Twitter entered the market. These companies have made their platforms so addictive that it is diffcult turn them off and go to sleep.
 
-However bad it is staying up late and not getting enough sleep, lacking sleep is worse for women than for men. A study in 2009 by Miller and colleagues have found that sleep duration affects cardiovascular diseases related biomarkers in *women*, but not in men. 
+Even though loosing sleep in general is bad, however the detrimental effects are far worse in women than for men. A study in 2009 by Miller and colleagues have found that sleep duration affects biomarkers related to cardiovascular diseases in women, but not in men. 
 
-This would not have been a problem if women general get enough sleep. As we all are aware of, women, especially those who work and have kids, are not getting enough sleep. Women who work and have kids are constantly balancing their work and family. They have to perform way beyond expectation than the male coworkers to get acknowlegement from work, while undertaking more than their man husbands.  When work and family conflict, both men and women suffer, but women suffer more. They have worse sleep quality in that situation (Lallukka et al., 2010). 
+This would not have been a problem if women get enough sleep. As we are all aware, women, especially those who work and have kids, are not getting sleep. Women who work and have kids are constantly balancing their work and family. They have to perform way beyond expectation than their male coworkers to get acknowlegement, while undertaking more than their husbands.  When work and family conflict, both men and women suffer, but women suffer more. In that situation their sleep quality goes down (Lallukka et al., 2010). 
 
-Poor sleep is a source of a lot of health problems, both mentally and physically. We need to better understand how we can get more and better sleep, especially for women.
+Poor sleep is a source of a lot of health problems, both mentally and physically. We need to better understand how we can get quality sleep, especially for women.
 
 *How to get more sleep? -- to be continued*
 
